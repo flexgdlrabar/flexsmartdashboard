@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "flexsmartdashboard_2",
-  "startScreen": "app.blank",
+  "startScreen": "app.dashboard",
   "screens": [
     {
       "id": "blank",

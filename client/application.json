@@ -4,5 +4,10 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "24b68909",
   "uiCommonVersion": "5.0.3",
-  "creatorId": "gdlrabar"
+  "creatorId": "gdlrabar",
+  "id": "flexsmartdashboard_2",
+  "previewImageURL": "/previews/24b68909-flexsmartdashboard_2/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/flexgdlrabar/flexsmartdashboard",
+  "creatorName": "Roberto Abarca"
 }
