@@ -1,1 +1,14 @@
-{}
+{
+  "dashboard": {
+    "type": "object",
+    "comment": "Dashboard",
+    "properties": {
+      "Site": {
+        "type": "string"
+      },
+      "Building": {
+        "type": "string"
+      }
+    }
+  }
+}
