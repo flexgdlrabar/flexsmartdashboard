@@ -1,0 +1,17 @@
+{
+  "remoteAppConfig": {
+    "loginType": "process",
+    "cmd": "node",
+    "args": [
+      "<%= transformAppsDir %>/flexsmartdashboard_2/server/start.js",
+      "--sessionID",
+      ":sessionID"
+    ]
+  },
+  "appData": {
+    "appType": "local",
+    "appZip": "<%= staticStorage %>flexsmartdashboard_2/client.zip",
+    "sessionCheck": false,
+    "smartuxApp": "<%= staticStorage %>flexsmartdashboard_2/smartuxApp.json"
+  }
+}
